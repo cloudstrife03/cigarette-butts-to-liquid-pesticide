@@ -1,78 +1,82 @@
 
-
 <!--
-CLYDE MACABUDBOD | CYBERPUNK GOLD README
+CLYDE MACABUDBOD | FUTURISTIC HOLOGRAPHIC README
 Replace YOUR-GITHUB-USERNAME and YOUR-EMAIL.
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:050505,50:211A0A,100:B8860B&text=CLYDE%20MACABUDBOD&fontSize=42&fontColor=FFD76A&fontAlignY=42&desc=COMPUTER%20ENGINEERING%20%2F%2F%20SYSTEM%20DEVELOPER&descSize=14&descAlignY=65&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=700&color=FFD76A&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+ENGINEERING+PROFILE...;%3E+BUILDING+SYSTEMS+AND+SOLUTIONS;%3E+INNOVATE+%2F%2F+DEVELOP+%2F%2F+IMPROVE" alt="Animated terminal introduction" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:030712,35:101B48,70:312E81,100:06B6D4&text=CLYDE%20MACABUDBOD&fontSize=40&fontColor=E0F2FE&fontAlignY=38&desc=COMPUTER%20ENGINEERING%20%2F%2F%20DIGITAL%20INNOVATION&descSize=13&descAlignY=59&animation=fadeIn" alt="Futuristic holographic banner"/>
 
 <br/>
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=FFD76A" /></a>
-<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/CONTACT-050505?style=for-the-badge&logo=gmail&logoColor=FFD76A" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=700&lines=%3E+WELCOME+TO+MY+DIGITAL+SPACE;%3E+SYSTEMS+ENGINEERING+INITIALIZED;%3E+DESIGN.+DEVELOP.+INNOVATE.;%3E+THE+FUTURE+IS+BUILT%2C+NOT+PREDICTED." alt="Animated futuristic text"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-15110A?style=flat-square&labelColor=6B5018&color=15110A" />
-<img src="https://img.shields.io/badge/ROLE-COMPUTER%20ENGINEERING-15110A?style=flat-square&labelColor=6B5018&color=15110A" />
-<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20LEARNING-15110A?style=flat-square&labelColor=6B5018&color=15110A" />
+<a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GITHUB-030712?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub"/></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/CONTACT-030712?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/></a>
+<img src="https://img.shields.io/badge/COMPUTER%20ENGINEERING-030712?style=for-the-badge&labelColor=312E81&color=030712" alt="Computer Engineering"/>
+
+<br/><br/>
+
+`[ DIGITAL PROFILE ONLINE ]` &nbsp; ` [ BUILDING THE NEXT ITERATION ]`
 
 </div>
 
 ---
 
-## `01` / SYSTEM PROFILE
+<div align="center">
+
+# `01` — IDENTITY MATRIX
+
+*Engineering ideas. Building solutions. Creating impact.*
+
+</div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-### About Me
+### `USER_PROFILE.exe`
 
-I'm **Clyde Macabudbod**, a Computer Engineering student passionate about software development, system design, database management, computer hardware, and sustainable technology.
+I'm **Clyde Macabudbod**, a Computer Engineering student interested in software development, system architecture, database systems, computer hardware, and sustainable technology.
 
-I enjoy exploring ideas, developing practical solutions, and learning through hands-on projects.
-
-**My mission:** Turn ideas into working systems that solve real problems.
+I enjoy turning concepts into practical solutions through analysis, design, programming, and continuous improvement.
 
 ```yaml
-user: Clyde Macabudbod
+identity: Clyde Macabudbod
 discipline: Computer Engineering
-mode: Learn and Build
-focus:
+operating_mode: Learn / Build / Improve
+
+interests:
   - Software Development
   - Web Applications
-  - System Design
+  - System Analysis and Design
   - Database Management
   - Computer Hardware
   - Sustainable Technology
 ```
 
 </td>
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
-### Engineering Console
+### `SYSTEM STATUS`
 
 ```text
-┌─────────────────────────┐
-│  ENGINEERING TERMINAL   │
-├─────────────────────────┤
-│ > ANALYZE   [ACTIVE]    │
-│ > DESIGN    [ACTIVE]    │
-│ > DEVELOP   [ACTIVE]    │
-│ > TEST      [ACTIVE]    │
-│ > IMPROVE   [LOOP]      │
-└─────────────────────────┘
+╭──────────────────────────╮
+│  NEURAL ENGINEERING HUD  │
+├──────────────────────────┤
+│ PROFILE    : ONLINE      │
+│ MODE       : DEVELOPMENT │
+│ OBJECTIVE  : INNOVATION  │
+│ PROCESS    : ITERATIVE   │
+╰──────────────────────────╯
 ```
 
-**Core principle**
+**Core protocol**
 
-`LEARN → BUILD → TEST → IMPROVE`
+`THINK → DESIGN → BUILD → VERIFY`
 
 </td>
 </tr>
@@ -80,29 +84,33 @@ focus:
 
 ---
 
-## `02` / TECHNOLOGY ARSENAL
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,cpp,git,github,vscode&theme=dark" alt="Technology stack" />
+# `02` — TECHNOLOGY INTERFACE
+
+### Tools and areas of interest
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,java,cpp,git,github,vscode&theme=dark" alt="Technology icons"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-FFD76A?style=for-the-badge&logo=googlechrome&logoColor=050505" />
-<img src="https://img.shields.io/badge/DATABASES-FFD76A?style=for-the-badge&logo=mysql&logoColor=050505" />
-<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-FFD76A?style=for-the-badge&logo=diagramsdotnet&logoColor=050505" />
+<img src="https://img.shields.io/badge/WEB%20SYSTEMS-22D3EE?style=flat-square&logo=googlechrome&logoColor=030712" alt="Web systems"/>
+<img src="https://img.shields.io/badge/DATABASES-A78BFA?style=flat-square&logo=mysql&logoColor=030712" alt="Databases"/>
+<img src="https://img.shields.io/badge/SYSTEM%20DESIGN-22D3EE?style=flat-square&logo=diagramsdotnet&logoColor=030712" alt="System design"/>
+<img src="https://img.shields.io/badge/HARDWARE-A78BFA?style=flat-square&logo=arduino&logoColor=030712" alt="Hardware"/>
+<img src="https://img.shields.io/badge/SUSTAINABLE%20TECH-22D3EE?style=flat-square&logo=leaflet&logoColor=030712" alt="Sustainable technology"/>
 
 </div>
 
-<sub>Technology icons represent areas of interest. Keep only the technologies you have used or studied.</sub>
+<sub>Update these technology icons to match the tools and languages you have actually studied or used.</sub>
 
 ---
 
-## `03` / PROJECT DATABASE
-
 <div align="center">
 
-`FOUR PROJECTS // ENGINEERING IN ACTION`
+# `03` — PROJECT HOLOGRAMS
+
+`PROJECT DATABASE // 04 ENTRIES`
 
 </div>
 
@@ -110,185 +118,195 @@ focus:
 <tr>
 <td width="50%" valign="top">
 
-### <code>01 // SUSTAINABILITY</code>
+<img src="https://img.shields.io/badge/PROJECT_01-22D3EE?style=for-the-badge&labelColor=0B1020&color=0B1020" alt="Project 1"/>
 
-## Cigarette Butts to Liquid Pesticide
+### Cigarette Butts to Liquid Pesticide
+
+**Sustainable Technology / Environmental Research**
 
 An academic research project exploring cigarette-butt waste, its environmental implications, and the scientific feasibility of a controlled liquid-pesticide concept.
 
-**Focus areas**
-- Waste management research
-- Literature review
-- Experimental documentation
-- Environmental safety assessment
+**Research objectives**
+- Examine cigarette-waste management.
+- Review relevant scientific literature.
+- Document research methods and findings.
+- Assess environmental and health risks.
 
-<img src="https://img.shields.io/badge/DOMAIN-ENVIRONMENTAL%20RESEARCH-201807?style=flat-square&labelColor=8A6A20&color=201807" />
+**Focus:** Research methodology, experimentation, documentation, and environmental responsibility.
 
 </td>
 <td width="50%" valign="top">
 
-### <code>02 // WEB APPLICATION</code>
+<img src="https://img.shields.io/badge/PROJECT_02-A78BFA?style=for-the-badge&labelColor=0B1020&color=0B1020" alt="Project 2"/>
 
-## School Tournament Organizer
+### School Tournament Organizer
+
+**Web Application / System Design**
 
 A tournament management system concept for organizing participants, teams, match schedules, scores, rankings, and tournament progression.
 
 **Planned features**
-- Organizer authentication
-- Tournament dashboard
-- Participant management
-- Match scheduling and scores
-- Rankings and winner tracking
+- Organizer authentication and dashboard.
+- Tournament and participant management.
+- Match scheduling and score tracking.
+- Rankings and winner progression.
 
-<img src="https://img.shields.io/badge/DOMAIN-SYSTEM%20DEVELOPMENT-201807?style=flat-square&labelColor=8A6A20&color=201807" />
+**Focus:** System analysis, flowcharts, database design, and web development.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <code>03 // PHP + MYSQL</code>
+<img src="https://img.shields.io/badge/PROJECT_03-22D3EE?style=for-the-badge&labelColor=0B1020&color=0B1020" alt="Project 3"/>
 
-## Birthday Party Organizer
+### Birthday Party Organizer
 
-A web-based event booking system concept created for an Object-Oriented Programming academic project.
+**PHP / MySQL / Object-Oriented Programming**
+
+A web-based booking system concept designed to manage birthday packages, vendors, users, and event bookings.
 
 **Planned features**
-- Admin and guest accounts
-- Birthday packages and vendors
-- Booking status management
-- Calendar-based overview
-- Database integration
+- Admin and guest accounts.
+- Package and vendor selection.
+- Booking status management.
+- Calendar-based booking overview.
+- Database integration.
 
-<img src="https://img.shields.io/badge/DOMAIN-WEB%20DEVELOPMENT-201807?style=flat-square&labelColor=8A6A20&color=201807" />
+**Focus:** OOP, modular programming, authentication, and data management.
 
 </td>
 <td width="50%" valign="top">
 
-### <code>04 // RENEWABLE ENERGY</code>
+<img src="https://img.shields.io/badge/PROJECT_04-A78BFA?style=for-the-badge&labelColor=0B1020&color=0B1020" alt="Project 4"/>
 
-## Solar Power System Planning
+### Solar Power System Planning
 
-A residential solar planning project focused on energy requirements, component sizing, battery storage, and efficient power usage.
+**Renewable Energy / Engineering Design**
 
-**Planning areas**
-- Household load calculations
-- Solar panel capacity
-- Hybrid inverter selection
-- Battery sizing
-- Grid connection considerations
+A residential solar system planning project focused on household energy requirements, component sizing, battery storage, and power efficiency.
 
-<img src="https://img.shields.io/badge/DOMAIN-SUSTAINABLE%20TECH-201807?style=flat-square&labelColor=8A6A20&color=201807" />
+**Planning objectives**
+- Estimate household loads.
+- Calculate solar panel capacity.
+- Evaluate inverter options.
+- Plan battery storage.
+- Consider grid connection and safety.
+
+**Focus:** Energy calculations, system planning, and sustainable engineering.
 
 </td>
 </tr>
 </table>
 
-> **Project safety:** The cigarette-butt research is not a recipe or recommendation for homemade pesticides. Cigarette butts may contain nicotine and other toxic substances. Any experiments require qualified supervision, an approved risk assessment, appropriate protective measures, and proper hazardous-waste handling. Never apply experimental mixtures to crops, animals, or the environment.
+> **Research safety:** The cigarette-butt project is not a recipe or recommendation for homemade pesticide. Cigarette butts may contain nicotine and other toxic substances. Any investigation requires qualified supervision, an approved risk assessment, appropriate protective measures, and proper hazardous-waste handling. Do not apply experimental mixtures to crops, animals, or the environment.
 
-<sub>Project features are identified as planned where implementation has not been confirmed. Update descriptions as each project progresses.</sub>
+<sub>Planned features are not claims of completed functionality. Update each project as its development progresses.</sub>
 
 ---
 
-## `04` / DEVELOPMENT PIPELINE
-
 <div align="center">
 
-| Phase | Operation | Objective |
-|:---:|---|---|
-| `01` | **ANALYZE** | Understand the problem and requirements |
-| `02` | **DESIGN** | Plan architecture, interfaces, and data |
-| `03` | **DEVELOP** | Implement the solution |
-| `04` | **TEST** | Validate features and find defects |
-| `05` | **IMPROVE** | Refine quality and performance |
+# `04` — ENGINEERING SEQUENCE
+
+</div>
 
 ```text
-ANALYZE ──► DESIGN ──► DEVELOP ──► TEST ──► IMPROVE
-   ▲                                            │
-   └──────────────── FEEDBACK LOOP ─────────────┘
+        ┌──────────────────────────┐
+        │ 01 / ANALYZE             │
+        │ Requirements & problems  │
+        └─────────────┬────────────┘
+                      ▼
+        ┌──────────────────────────┐
+        │ 02 / DESIGN              │
+        │ Architecture & planning  │
+        └─────────────┬────────────┘
+                      ▼
+        ┌──────────────────────────┐
+        │ 03 / DEVELOP             │
+        │ Implementation           │
+        └─────────────┬────────────┘
+                      ▼
+        ┌──────────────────────────┐
+        │ 04 / VERIFY              │
+        │ Testing & validation     │
+        └─────────────┬────────────┘
+                      ▼
+        ┌──────────────────────────┐
+        │ 05 / EVOLVE              │
+        │ Improve & optimize       │
+        └─────────────┬────────────┘
+                      │
+                      └──────► ITERATE
 ```
 
+---
+
+<div align="center">
+
+# `05` — GITHUB ANALYTICS
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=A78BFA&text_color=DBEAFE&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=030712&title_color=22D3EE&text_color=DBEAFE" alt="Most-used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&hide_border=true&background=030712&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=DBEAFE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
+
 </div>
 
 ---
 
-## `05` / GITHUB INTELLIGENCE
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=080808&title_color=FFD76A&icon_color=D4AF37&text_color=E6D9B5&include_all_commits=true" alt="GitHub profile statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=080808&title_color=FFD76A&text_color=E6D9B5" alt="Most-used languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&hide_border=true&background=080808&ring=D4AF37&fire=FFD76A&currStreakLabel=FFD76A&sideLabels=E6D9B5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B927B" alt="GitHub contribution streak" />
+# `06` — ENGINEERING DIRECTIVES
 
 </div>
 
----
-
-## `06` / ENGINEERING PRINCIPLES
-
-<div align="center">
-
-| PRINCIPLE | DIRECTIVE |
+| Directive | Implementation |
 |---|---|
-| **INNOVATION** | Explore new approaches and ideas. |
-| **LEARNING** | Improve technical knowledge continuously. |
-| **PRACTICALITY** | Build solutions with real-world value. |
-| **COLLABORATION** | Communicate and work effectively with others. |
-| **QUALITY** | Test, document, and maintain reliable systems. |
-| **RESPONSIBILITY** | Respect safety, ethics, and the environment. |
-
-</div>
+| `INNOVATE` | Explore new ideas and approaches. |
+| `LEARN` | Strengthen skills through study and practice. |
+| `ENGINEER` | Build practical, testable solutions. |
+| `COLLABORATE` | Communicate and share knowledge. |
+| `VERIFY` | Test functionality and reliability. |
+| `PROTECT` | Consider safety, ethics, and the environment. |
 
 ---
 
-## `07` / CURRENT MISSION
+<div align="center">
+
+# `07` — MISSION CONTROL
 
 ```javascript
-const mission = {
-  learn: "Expand my technical knowledge",
-  build: "Develop practical engineering projects",
-  test: "Verify functionality and reliability",
-  improve: "Make every iteration better"
+const missionControl = {
+  learn: "Expand my engineering knowledge",
+  build: "Create useful applications and systems",
+  verify: "Test and validate solutions",
+  evolve: "Improve with every iteration"
 };
 
-const motto = "Engineering ideas. Building solutions. Creating impact.";
+const philosophy =
+  "The future is built, not predicted.";
 ```
 
-My goal is to keep developing my skills, document my progress, and build a portfolio that reflects my growth as a Computer Engineering student.
+### `08` — ESTABLISH CONNECTION
 
----
+<a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/EXPLORE%20GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=030712" alt="Explore GitHub"/></a>
 
-## `08` / ESTABLISH CONNECTION
-
-<div align="center">
-
-### Have an idea? Let's connect.
-
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-FFD76A?style=for-the-badge&logo=github&logoColor=050505" />
-</a>
-
-<a href="mailto:YOUR-EMAIL">
-  <img src="https://img.shields.io/badge/SEND%20AN%20EMAIL-D4AF37?style=for-the-badge&logo=gmail&logoColor=050505" />
-</a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/CONTACT%20ME-A78BFA?style=for-the-badge&logo=gmail&logoColor=030712" alt="Contact by email"/></a>
 
 <br/><br/>
 
-```text
-[ CONNECTION ESTABLISHED ]
-[ ENGINEERING MODE: ACTIVE ]
-[ NEXT OBJECTIVE: BUILD SOMETHING BETTER ]
-```
+`[ CONNECTION ESTABLISHED ]`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:050505,50:211A0A,100:B8860B" alt="Cyberpunk gold footer" />
+**Clyde Macabudbod**  
+*Computer Engineering · Digital Innovation · Continuous Learning*
 
-<sub>CYLDE MACABUDBOD // COMPUTER ENGINEERING PORTFOLIO</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:030712,50:101B48,100:06B6D4" alt="Holographic footer"/>
 
-<sub>Learn. Build. Test. Improve.</sub>
+<sub>DESIGN THE SYSTEM. BUILD THE FUTURE. IMPROVE EVERY ITERATION.</sub>
 
 </div>
 
