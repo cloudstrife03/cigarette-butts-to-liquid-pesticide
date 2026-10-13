@@ -1,200 +1,227 @@
-CLYDE MACABUDBOD | COMPUTER ENGINEERING PORTFOLIO
+⚡ CLYDE MACABUDBOD
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,35:123B70,70:7027AE,100:00D9FF&text=CLYDE%20MACABUDBOD&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20ENGINEERING%20%7C%20PROJECT%20DEVELOPMENT&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Clyde's portfolio banner"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Building+Practical+Technology;Learning+Through+Engineering+Projects" alt="Animated introduction"/><p>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub"/>
-  </a>
-  <a href="mailto:YOUR-EMAIL">
-    <img src="https://img.shields.io/badge/Email-Let's%20Connect-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-  </a>
-</p>Engineering ideas. Building solutions. Creating impact.
+COMPUTER ENGINEERING • SOFTWARE • SYSTEMS • INNOVATION
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00E5FF,100:7B2CFF&height=220&section=header&text=ENGINEERING%20THE%20FUTURE&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20Ideas%20Into%20Real-World%20Solutions&descAlignY=58&descSize=15" width="100%" />""GitHub" (https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00E5FF)" (https://github.com/YOUR-GITHUB-USERNAME)
+""Portfolio" (https://img.shields.io/badge/Portfolio-Explore-7B2CFF?style=for-the-badge&logo=googlechrome&logoColor=white)" (https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
+""Email" (https://img.shields.io/badge/Email-Contact-00E5FF?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:YOUR-EMAIL)
+
+Engineering ideas. Building solutions. Creating impact.
+
+"SYSTEM ONLINE" • "LEARN" • "BUILD" • "TEST" • "IMPROVE"
 
 </div>---
 
-"01" — About Me
+"01" // SYSTEM PROFILE
 
-const clyde = {
-    name: "Clyde Macabudbod",
-    field: "Computer Engineering",
-    interests: [
-        "Software Development",
-        "Web Applications",
-        "System Analysis and Design",
-        "Database Management",
-        "Computer Hardware",
-        "Sustainable Technology"
-    ],
-    projects: [
-        "Cigarette Butts to Liquid Pesticide",
-        "School Tournament Organizer",
-        "Birthday Party Organizer",
-        "Solar Power System Planning"
-    ],
-    mindset: "Learn, build, test, and improve."
+const engineer = {
+  name: "Clyde Macabudbod",
+  discipline: "Computer Engineering",
+  focus: [
+    "Software Development",
+    "Web Applications",
+    "System Analysis and Design",
+    "Database Management",
+    "Computer Hardware",
+    "Sustainable Technology"
+  ],
+  philosophy: "Learn, build, test, and improve.",
+  mission: "Turn engineering ideas into useful solutions."
 };
 
-I'm a Computer Engineering student interested in developing practical technology projects that connect software, systems, and real-world problems.
+I'm a Computer Engineering student passionate about technology, software development, systems design, and practical engineering applications.
 
-This portfolio documents my academic projects, research concepts, programming practice, and engineering ideas. My goal is to continue learning, improve my technical skills, and turn ideas into useful and well-organized solutions.
+This portfolio showcases my academic projects, research concepts, programming practice, and engineering explorations. I aim to develop solutions that combine technical knowledge, creativity, efficiency, and responsible innovation.
 
----
-
-"02" — Technology & Engineering Interests
-
-<div align="center">Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php&theme=dark" alt="Web development technologies"/>Database & Version Control
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github&theme=dark" alt="Database and version control"/>Computer Engineering
-
-<img src="https://skillicons.dev/icons?i=arduino,autocad,vscode&theme=dark" alt="Engineering and development tools"/></div>Additional areas of interest: System analysis, flowcharts, UML concepts, software testing, project documentation, solar energy planning, and sustainable technology.
-
-«Only list technologies here that you have actually used or studied. You can update this section as your skills grow.»
+«MISSION DIRECTIVE: Transform problems into opportunities through technology, continuous learning, and engineering.»
 
 ---
 
-"03" — Featured Projects
+"02" // TECHNOLOGY MATRIX
 
-<table>
-<tr>
-<td width="50%" valign="top">♻️ Cigarette Butts to Liquid Pesticide
+<div align="center">SOFTWARE & WEB DEVELOPMENT
 
-Sustainability & Research Concept
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" />ENGINEERING & SYSTEMS
 
-A project exploring the potential conversion of discarded cigarette butts into a liquid pesticide concept. It focuses on waste utilization, research, and environmental considerations.
+<img src="https://skillicons.dev/icons?i=linux,windows,bash&theme=dark" /></div>Core areas of interest
 
-"Research" "Sustainability" "Waste Utilization"
+- Web application development
+- Database design and management
+- System analysis, flowcharts, and UML
+- Software testing and documentation
+- Computer hardware and troubleshooting
+- Solar energy planning and sustainable technology
 
-Project goals
+Note: Technology icons represent areas of interest and study. Actual proficiency depends on hands-on experience.
 
-- Explore a potential use for cigarette-butt waste.
-- Document the research process and methodology.
+---
+
+"03" // FEATURED PROJECTS
+
+♻️ 01 — CIGARETTE BUTTS TO LIQUID PESTICIDE
+
+Classification: Sustainability Research Concept
+
+Exploring the potential use of discarded cigarette butts in a liquid pesticide research concept, focusing on waste utilization, scientific investigation, and environmental considerations.
+
+Project objectives
+
+- Investigate potential waste-utilization approaches.
+- Document research methodology and findings.
 - Evaluate environmental risks and limitations.
+- Identify requirements for scientific validation.
 
-Concept under investigation; safety and effectiveness must be scientifically validated.
+"RESEARCH" "SUSTAINABILITY" "WASTE UTILIZATION"
 
-</td>
-<td width="50%" valign="top">🏆 School Tournament Organizer
+«Research concept only. Nicotine-containing waste and experimental pesticide formulations can be hazardous. Any investigation requires qualified supervision, risk assessment, and appropriate waste handling.»
 
-Tournament Management System
+---
 
-A proposed application for organizing school tournaments, including participant records, match schedules, scores, winners, and tournament progression.
+🏆 02 — SCHOOL TOURNAMENT ORGANIZER
 
-"System Analysis" "Database Design" "UI/UX"
+Classification: Tournament Management System
 
-Planned features
-
-- Organizer login and dashboard.
-- Tournament creation and management.
-- Match schedules and score tracking.
-- Winner and next-round management.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">🎂 Birthday Party Organizer
-
-PHP & MySQL Web Application
-
-A web application project concept for managing birthday event bookings, package selection, vendor information, and administrative workflows.
-
-"PHP" "MySQL" "HTML" "CSS" "JavaScript"
+A proposed application designed to organize school competitions and simplify tournament administration.
 
 Planned features
 
-- Admin and guest accounts.
-- Event packages and vendor selection.
-- Booking status management.
-- Database-backed records.
+- Organizer authentication and dashboard
+- Tournament creation and management
+- Participant records and match scheduling
+- Score tracking and winner management
+- Next-round progression
 
-</td>
-<td width="50%" valign="top">☀️ Solar Power System Planning
+"SYSTEM ANALYSIS" "DATABASE DESIGN" "UI/UX"
 
-Renewable Energy & Power Design
+---
 
-An engineering planning project exploring a solar power setup for household appliances, with attention to energy consumption, solar panels, inverter capacity, and battery storage.
+🎂 03 — BIRTHDAY PARTY ORGANIZER
 
-"Solar Energy" "Power Calculation" "System Planning"
+Classification: PHP & MySQL Web Application
 
-Planning considerations
+A web application concept for managing birthday event packages, vendors, bookings, and administrative workflows.
 
-- Estimate daily energy consumption.
-- Compare panel and battery configurations.
-- Evaluate inverter requirements.
-- Explore grid-hybrid and off-grid options.
+Planned features
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">💻 Computer Systems & Hardware
+- Admin and guest accounts
+- Event package selection
+- Vendor information and selection
+- Booking status management
+- Database-backed records
+- Calendar-based booking overview
 
-Hardware Exploration
+Technology stack: PHP • MySQL • HTML • CSS • JavaScript
 
-A collection of computer hardware research and practical technology investigations involving system specifications, memory, connectivity, and performance considerations.
+"WEB DEVELOPMENT" "DATABASE" "OBJECT-ORIENTED PROGRAMMING"
 
-"Computer Hardware" "Troubleshooting" "Technical Research"
+---
 
-</td>
-<td width="50%" valign="top">🌐 Personal Portfolio
+☀️ 04 — SOLAR POWER SYSTEM PLANNING
 
-GitHub & Project Documentation
+Classification: Renewable Energy & Power Design
 
-A central place to document engineering projects, explain development decisions, share source code, and present future work.
+An engineering planning project exploring solar power configurations for household appliances and energy requirements.
 
-"GitHub" "Markdown" "Documentation"
+Engineering considerations
 
-</td>
-</tr>
-</table><div align="center"><a href="https://github.com/YOUR-GITHUB-USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a></div>---
+- Daily energy consumption estimates
+- Solar panel configuration
+- Inverter capacity requirements
+- Battery storage sizing
+- Grid-hybrid and off-grid configurations
 
-"04" — Development Workflow
+"RENEWABLE ENERGY" "POWER CALCULATION" "SYSTEM PLANNING"
 
-<div align="center">Stage| Approach
-"01" — Plan| Define the problem and project objectives.
-"02" — Analyze| Identify requirements, users, and constraints.
-"03" — Design| Prepare the architecture, diagrams, and interface.
-"04" — Develop| Implement and organize the solution.
-"05" — Test| Check functionality and identify errors.
-"06" — Improve| Document findings and refine the project.
+---
+
+💻 05 — COMPUTER SYSTEMS & HARDWARE
+
+Classification: Hardware Exploration
+
+A collection of technical investigations involving computer specifications, memory configurations, connectivity, troubleshooting, and system performance.
+
+Areas of exploration
+
+- Computer hardware components
+- Memory and storage configurations
+- System compatibility
+- Connectivity and diagnostics
+- Performance optimization
+
+"COMPUTER ENGINEERING" "HARDWARE" "TECHNICAL RESEARCH"
+
+---
+
+🌐 06 — PERSONAL PORTFOLIO
+
+Classification: GitHub & Engineering Documentation
+
+A centralized portfolio for presenting engineering projects, documenting development decisions, and sharing source code.
+
+Objectives
+
+- Showcase technical projects
+- Organize project documentation
+- Track learning and development
+- Present future engineering work
+
+"GITHUB" "MARKDOWN" "DOCUMENTATION"
+
+<div align="center">""Explore Projects" (https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=050816)" (https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
 
 </div>---
 
-"05" — GitHub Analytics
+"04" // DEVELOPMENT PROTOCOL
 
-<div align="center"><a href="https://github.com/YOUR-GITHUB-USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9FF&icon_color=BD7BFF&text_color=E6F1FF" alt="GitHub statistics"/>
-</a><a href="https://github.com/YOUR-GITHUB-USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=07111F&title_color=00D9FF&text_color=E6F1FF" alt="Most-used programming languages"/>
-</a></div>---
+┌─────────────────────────────────────────────┐
+│             ENGINEERING WORKFLOW            │
+├─────────────────────────────────────────────┤
+│ 01  PLAN      → Define the problem          │
+│ 02  ANALYZE   → Identify requirements       │
+│ 03  DESIGN    → Create models and diagrams  │
+│ 04  DEVELOP   → Build the solution          │
+│ 05  TEST      → Verify functionality        │
+│ 06  IMPROVE   → Refine and document         │
+└─────────────────────────────────────────────┘
 
-"06" — My Engineering Principles
+My development approach emphasizes structured planning, organized implementation, testing, documentation, and continuous improvement.
 
-<div align="center">Principle| What it means
-⚡ Innovation| Explore new ideas and practical solutions.
-🧠 Continuous Learning| Improve through research and practice.
-🛠️ Practical Engineering| Connect concepts with real-world applications.
-🤝 Collaboration| Learn from teamwork and shared feedback.
-🎯 Quality| Aim for clear, organized, maintainable work.
+---
+
+"05" // GITHUB ANALYTICS
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=7B2CFF&text_color=C9D1D9&bg_color=050816" alt="GitHub statistics" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=C9D1D9&bg_color=050816" alt="Most-used programming languages" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=transparent&hide_border=true&ring=00E5FF&fire=7B2CFF&currStreakLabel=00E5FF&background=050816&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" width="70%" /></div>Statistics depend on your public GitHub activity and repository data. Some widgets may be temporarily unavailable.
+
+---
+
+"06" // ENGINEERING PRINCIPLES
+
+PRINCIPLE| DIRECTIVE
+⚡ Innovation| Explore ideas and practical solutions.
+🧠 Learning| Improve through research and practice.
+🛠️ Practical Engineering| Connect theory with real applications.
+🤝 Collaboration| Learn through teamwork and feedback.
+🎯 Quality| Build clear and maintainable solutions.
 ♻️ Responsibility| Consider safety and environmental impact.
 
+---
+
+"07" // CONNECTION TERMINAL
+
+I'm interested in technology, software development, engineering projects, and opportunities to learn and collaborate with other developers and engineers.
+
+<div align="center">""GitHub" (https://img.shields.io/badge/CONNECT%20ON-GitHub-050816?style=for-the-badge&logo=github&logoColor=00E5FF)" (https://github.com/YOUR-GITHUB-USERNAME)
+
+""Email" (https://img.shields.io/badge/CONTACT%20ME-Email-7B2CFF?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:YOUR-EMAIL)
+
 </div>---
 
-"07" — Let's Connect
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:00E5FF,100:050816&height=120&section=footer" width="100%" />"while (learning) { build(); test(); improve(); }"
 
-<div align="center">I'm interested in technology, software development, engineering projects, and opportunities to learn and collaborate.
+THANKS FOR VISITING MY PORTFOLIO
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
-</a><a href="mailto:YOUR-EMAIL">
-  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a><br/><br/>
+Designed with curiosity. Developed through practice. Driven by engineering.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7027AE,100:07111F&height=120&section=footer&animation=fadeIn" width="100%" alt="Decorative footer"/>"while (learning) { build(); test(); improve(); }"
+"[ END OF TRANSMISSION ]"
 
-Thanks for visiting my portfolio!
-
-<sub>Designed with curiosity. Developed through practice. Driven by engineering.</sub>
-
-</div>is not a recipe or recommendation for preparing or applying homemade pesticide. Any experiments require qualified supervision, risk assessment, and appropriate waste handling.
+</div>
