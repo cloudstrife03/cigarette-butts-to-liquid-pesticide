@@ -1,4 +1,4 @@
-CLYDE MACABUDBUD | COMPUTER ENGINEERING PORTFOLIO
+CLYDE MACABUDBOD | COMPUTER ENGINEERING PORTFOLIO
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07111F,35:123B70,70:7027AE,100:00D9FF&text=CLYDE%20MACABUDBUD&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20ENGINEERING%20%7C%20PROJECT%20DEVELOPMENT&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Clyde's portfolio banner"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Building+Practical+Technology;Learning+Through+Engineering+Projects" alt="Animated introduction"/><p>
   <a href="https://github.com/YOUR-GITHUB-USERNAME">
@@ -14,7 +14,7 @@ CLYDE MACABUDBUD | COMPUTER ENGINEERING PORTFOLIO
 "01" — About Me
 
 const clyde = {
-    name: "Clyde Macabudbud",
+    name: "Clyde Macabudbod",
     field: "Computer Engineering",
     interests: [
         "Software Development",
