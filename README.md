@@ -1,23 +1,30 @@
-⚡ CLYDE MACABUDBOD
 
-COMPUTER ENGINEERING • SOFTWARE • SYSTEMS • INNOVATION
+<div align="center">
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:00E5FF,100:7B2CFF&height=220&section=header&text=ENGINEERING%20THE%20FUTURE&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Building%20Ideas%20Into%20Real-World%20Solutions&descAlignY=58&descSize=15" width="100%" />""GitHub" (https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00E5FF)" (https://github.com/YOUR-GITHUB-USERNAME)
-""Portfolio" (https://img.shields.io/badge/Portfolio-Explore-7B2CFF?style=for-the-badge&logo=googlechrome&logoColor=white)" (https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
-""Email" (https://img.shields.io/badge/Email-Contact-00E5FF?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:YOUR-EMAIL)
+# ◢ CLYDE MACABUDBOD ◣
+### COMPUTER ENGINEERING · DIGITAL INNOVATION · SYSTEMS
 
-Engineering ideas. Building solutions. Creating impact.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,40:101C45,75:00F5D4,100:7B2CFF&text=ENGINEER%20THE%20FUTURE&fontSize=35&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Engineering%20ideas.%20Building%20solutions.%20Creating%20impact.&descSize=13&descAlignY=60" width="100%" alt="Futuristic portfolio banner"/>
 
-"SYSTEM ONLINE" • "LEARN" • "BUILD" • "TEST" • "IMPROVE"
+[![GitHub](https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/YOUR-GITHUB-USERNAME)
+[![Email](https://img.shields.io/badge/CONTACT-101C45?style=for-the-badge&logo=gmail&logoColor=00F5D4)](mailto:YOUR-EMAIL)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7B2CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-GITHUB-USERNAME.github.io/)
 
-</div>---
+`SYSTEM STATUS: LEARNING` · `MODE: ENGINEERING` · `MISSION: INNOVATION`
 
-"01" // SYSTEM PROFILE
+</div>
 
-const engineer = {
+---
+
+## `01` // SYSTEM PROFILE
+
+```js
+const clyde = {
   name: "Clyde Macabudbod",
-  discipline: "Computer Engineering",
-  focus: [
+  role: "Computer Engineering Student",
+  mission: "Build technology with purpose",
+
+  interests: [
     "Software Development",
     "Web Applications",
     "System Analysis and Design",
@@ -25,203 +32,236 @@ const engineer = {
     "Computer Hardware",
     "Sustainable Technology"
   ],
-  philosophy: "Learn, build, test, and improve.",
-  mission: "Turn engineering ideas into useful solutions."
+
+  projects: [
+    "Cigarette Butts to Liquid Pesticide",
+    "School Tournament Organizer",
+    "Birthday Party Organizer",
+    "Solar Power System Planning"
+  ],
+
+  philosophy: "Learn. Build. Test. Improve."
 };
+```
 
-I'm a Computer Engineering student passionate about technology, software development, systems design, and practical engineering applications.
-
-This portfolio showcases my academic projects, research concepts, programming practice, and engineering explorations. I aim to develop solutions that combine technical knowledge, creativity, efficiency, and responsible innovation.
-
-«MISSION DIRECTIVE: Transform problems into opportunities through technology, continuous learning, and engineering.»
+> I explore the intersection of software, hardware, and sustainable engineering—turning concepts into practical projects through research, development, testing, and continuous improvement.
 
 ---
 
-"02" // TECHNOLOGY MATRIX
+## `02` // TECHNOLOGY MATRIX
 
-<div align="center">SOFTWARE & WEB DEVELOPMENT
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" />ENGINEERING & SYSTEMS
+### SOFTWARE & WEB TECHNOLOGIES
 
-<img src="https://skillicons.dev/icons?i=linux,windows,bash&theme=dark" /></div>Core areas of interest
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode&theme=dark" alt="Technology icons"/>
 
-- Web application development
-- Database design and management
-- System analysis, flowcharts, and UML
-- Software testing and documentation
-- Computer hardware and troubleshooting
-- Solar energy planning and sustainable technology
+### ENGINEERING DOMAINS
 
-Note: Technology icons represent areas of interest and study. Actual proficiency depends on hands-on experience.
-
----
-
-"03" // FEATURED PROJECTS
-
-♻️ 01 — CIGARETTE BUTTS TO LIQUID PESTICIDE
-
-Classification: Sustainability Research Concept
-
-Exploring the potential use of discarded cigarette butts in a liquid pesticide research concept, focusing on waste utilization, scientific investigation, and environmental considerations.
-
-Project objectives
-
-- Investigate potential waste-utilization approaches.
-- Document research methodology and findings.
-- Evaluate environmental risks and limitations.
-- Identify requirements for scientific validation.
-
-"RESEARCH" "SUSTAINABILITY" "WASTE UTILIZATION"
-
-«Research concept only. Nicotine-containing waste and experimental pesticide formulations can be hazardous. Any investigation requires qualified supervision, risk assessment, and appropriate waste handling.»
-
----
-
-🏆 02 — SCHOOL TOURNAMENT ORGANIZER
-
-Classification: Tournament Management System
-
-A proposed application designed to organize school competitions and simplify tournament administration.
-
-Planned features
-
-- Organizer authentication and dashboard
-- Tournament creation and management
-- Participant records and match scheduling
-- Score tracking and winner management
-- Next-round progression
-
-"SYSTEM ANALYSIS" "DATABASE DESIGN" "UI/UX"
-
----
-
-🎂 03 — BIRTHDAY PARTY ORGANIZER
-
-Classification: PHP & MySQL Web Application
-
-A web application concept for managing birthday event packages, vendors, bookings, and administrative workflows.
-
-Planned features
-
-- Admin and guest accounts
-- Event package selection
-- Vendor information and selection
-- Booking status management
-- Database-backed records
-- Calendar-based booking overview
-
-Technology stack: PHP • MySQL • HTML • CSS • JavaScript
-
-"WEB DEVELOPMENT" "DATABASE" "OBJECT-ORIENTED PROGRAMMING"
-
----
-
-☀️ 04 — SOLAR POWER SYSTEM PLANNING
-
-Classification: Renewable Energy & Power Design
-
-An engineering planning project exploring solar power configurations for household appliances and energy requirements.
-
-Engineering considerations
-
-- Daily energy consumption estimates
-- Solar panel configuration
-- Inverter capacity requirements
-- Battery storage sizing
-- Grid-hybrid and off-grid configurations
-
-"RENEWABLE ENERGY" "POWER CALCULATION" "SYSTEM PLANNING"
-
----
-
-💻 05 — COMPUTER SYSTEMS & HARDWARE
-
-Classification: Hardware Exploration
-
-A collection of technical investigations involving computer specifications, memory configurations, connectivity, troubleshooting, and system performance.
-
-Areas of exploration
-
-- Computer hardware components
-- Memory and storage configurations
-- System compatibility
-- Connectivity and diagnostics
-- Performance optimization
-
-"COMPUTER ENGINEERING" "HARDWARE" "TECHNICAL RESEARCH"
-
----
-
-🌐 06 — PERSONAL PORTFOLIO
-
-Classification: GitHub & Engineering Documentation
-
-A centralized portfolio for presenting engineering projects, documenting development decisions, and sharing source code.
-
-Objectives
-
-- Showcase technical projects
-- Organize project documentation
-- Track learning and development
-- Present future engineering work
-
-"GITHUB" "MARKDOWN" "DOCUMENTATION"
-
-<div align="center">""Explore Projects" (https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-00E5FF?style=for-the-badge&logo=github&logoColor=050816)" (https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
-
-</div>---
-
-"04" // DEVELOPMENT PROTOCOL
-
-┌─────────────────────────────────────────────┐
-│             ENGINEERING WORKFLOW            │
-├─────────────────────────────────────────────┤
-│ 01  PLAN      → Define the problem          │
-│ 02  ANALYZE   → Identify requirements       │
-│ 03  DESIGN    → Create models and diagrams  │
-│ 04  DEVELOP   → Build the solution          │
-│ 05  TEST      → Verify functionality        │
-│ 06  IMPROVE   → Refine and document         │
-└─────────────────────────────────────────────┘
-
-My development approach emphasizes structured planning, organized implementation, testing, documentation, and continuous improvement.
-
----
-
-"05" // GITHUB ANALYTICS
-
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=7B2CFF&text_color=C9D1D9&bg_color=050816" alt="GitHub statistics" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=C9D1D9&bg_color=050816" alt="Most-used programming languages" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=transparent&hide_border=true&ring=00E5FF&fire=7B2CFF&currStreakLabel=00E5FF&background=050816&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" width="70%" /></div>Statistics depend on your public GitHub activity and repository data. Some widgets may be temporarily unavailable.
-
----
-
-"06" // ENGINEERING PRINCIPLES
-
-PRINCIPLE| DIRECTIVE
-⚡ Innovation| Explore ideas and practical solutions.
-🧠 Learning| Improve through research and practice.
-🛠️ Practical Engineering| Connect theory with real applications.
-🤝 Collaboration| Learn through teamwork and feedback.
-🎯 Quality| Build clear and maintainable solutions.
-♻️ Responsibility| Consider safety and environmental impact.
-
----
-
-"07" // CONNECTION TERMINAL
-
-I'm interested in technology, software development, engineering projects, and opportunities to learn and collaborate with other developers and engineers.
-
-<div align="center">""GitHub" (https://img.shields.io/badge/CONNECT%20ON-GitHub-050816?style=for-the-badge&logo=github&logoColor=00E5FF)" (https://github.com/YOUR-GITHUB-USERNAME)
-
-""Email" (https://img.shields.io/badge/CONTACT%20ME-Email-7B2CFF?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:YOUR-EMAIL)
-
-</div>---
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,50:00E5FF,100:050816&height=120&section=footer" width="100%" />"while (learning) { build(); test(); improve(); }"
-
-THANKS FOR VISITING MY PORTFOLIO
-
-Designed with curiosity. Developed through practice. Driven by engineering.
-
-"[ END OF TRANSMISSION ]"
+| DOMAIN | FOCUS |
+|:--|:--|
+| `01` Software | Application development and programming |
+| `02` Systems | Requirements, flowcharts, UML and system design |
+| `03` Database | Data modeling, storage and management |
+| `04` Hardware | Computer systems, components and troubleshooting |
+| `05` Energy | Solar power planning and energy calculations |
+| `06` Sustainability | Research concepts and environmental responsibility |
 
 </div>
+
+<sub>Technology icons are illustrative. Keep only the languages and tools you have actually used or studied.</sub>
+
+---
+
+## `03` // PROJECT DATABASE
+
+### `[ P-001 ]` Cigarette Butts to Liquid Pesticide
+
+**CLASSIFICATION:** Environmental Research · Sustainability
+
+Explore the research concept of repurposing discarded cigarette butts while investigating potential pest-control activity, toxic residues, and environmental risks.
+
+- ♻️ Explore waste-utilization possibilities.
+- 🔬 Document research questions and methodology.
+- 🧪 Evaluate results through controlled, supervised research.
+- ⚠️ Treat safety and effectiveness as unverified until scientifically established.
+
+`RESEARCH` `SUSTAINABILITY` `ENVIRONMENTAL SCIENCE`
+
+---
+
+### `[ P-002 ]` School Tournament Organizer
+
+**CLASSIFICATION:** Web Systems · Tournament Management
+
+A proposed system for organizing school competitions and managing participants, schedules, matches, scores, and tournament progression.
+
+- Organizer authentication and dashboard
+- Tournament creation and participant management
+- Match scheduling and score tracking
+- Winner determination and next-round progression
+
+`SYSTEM ANALYSIS` `DATABASE DESIGN` `UI/UX`
+
+---
+
+### `[ P-003 ]` Birthday Party Organizer
+
+**CLASSIFICATION:** Web Application · Database Integration
+
+A PHP and MySQL web application concept for managing event packages, vendor selection, bookings, and administrator workflows.
+
+- Admin and guest accounts
+- Event package and vendor selection
+- Booking status management
+- Database-backed records and dashboards
+
+`PHP` `MYSQL` `HTML` `CSS` `JAVASCRIPT`
+
+---
+
+### `[ P-004 ]` Solar Power System Planning
+
+**CLASSIFICATION:** Electrical Systems · Renewable Energy
+
+An engineering planning project focused on estimating household energy requirements and evaluating solar panels, inverter capacity, and battery storage.
+
+- Estimate daily electrical consumption.
+- Compare solar panel configurations.
+- Evaluate inverter and battery requirements.
+- Explore off-grid and grid-hybrid designs.
+
+`SOLAR ENERGY` `POWER CALCULATIONS` `SYSTEM DESIGN`
+
+---
+
+### `[ P-005 ]` Computer Systems & Hardware
+
+**CLASSIFICATION:** Computer Engineering · Technical Research
+
+Investigations into computer specifications, memory configurations, connectivity, hardware compatibility, and performance optimization.
+
+`HARDWARE` `TROUBLESHOOTING` `TECHNICAL RESEARCH`
+
+---
+
+### `[ P-006 ]` Personal Engineering Portfolio
+
+**CLASSIFICATION:** Documentation · Open Source
+
+A central portfolio for documenting project objectives, technical decisions, source code, development progress, and future engineering work.
+
+`GITHUB` `MARKDOWN` `DOCUMENTATION`
+
+<div align="center">
+
+[![Explore Repositories](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00F5D4?style=for-the-badge&logo=github&logoColor=050816)](https://github.com/YOUR-GITHUB-USERNAME?tab=repositories)
+
+</div>
+
+---
+
+## `04` // DEVELOPMENT PIPELINE
+
+```text
+  ┌───────────────────────────────┐
+  │ 01  PLAN                      │
+  │     Define the problem        │
+  └──────────────┬────────────────┘
+                 ▼
+  ┌───────────────────────────────┐
+  │ 02  ANALYZE                   │
+  │     Identify requirements     │
+  └──────────────┬────────────────┘
+                 ▼
+  ┌───────────────────────────────┐
+  │ 03  DESIGN                    │
+  │     Model systems and UI      │
+  └──────────────┬────────────────┘
+                 ▼
+  ┌───────────────────────────────┐
+  │ 04  DEVELOP                   │
+  │     Implement the solution    │
+  └──────────────┬────────────────┘
+                 ▼
+  ┌───────────────────────────────┐
+  │ 05  TEST                      │
+  │     Verify and debug          │
+  └──────────────┬────────────────┘
+                 ▼
+  ┌───────────────────────────────┐
+  │ 06  ITERATE                   │
+  │     Improve and document      │
+  └───────────────────────────────┘
+```
+
+---
+
+## `05` // GITHUB TELEMETRY
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=CBD5E1&icon_color=7B2CFF&ring_color=00F5D4" alt="GitHub profile statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=050816&title_color=00F5D4&text_color=CBD5E1" alt="Most-used programming languages"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&hide_border=true&background=050816&ring=00F5D4&fire=7B2CFF&currStreakLabel=00F5D4&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
+
+</div>
+
+<sub>Statistics depend on your public GitHub activity and may take time to update. Replace the username in every image URL.</sub>
+
+---
+
+## `06` // ENGINEERING PROTOCOLS
+
+| PRINCIPLE | IMPLEMENTATION |
+|:--|:--|
+| ⚡ Innovation | Explore new ideas and useful solutions. |
+| 🧠 Learning | Improve through research and practice. |
+| 🛠️ Practicality | Connect theory with real-world applications. |
+| 🤝 Collaboration | Learn from teamwork and feedback. |
+| 🎯 Quality | Build organized, maintainable systems. |
+| ♻️ Responsibility | Consider safety and environmental impact. |
+
+---
+
+## `07` // ESTABLISH CONNECTION
+
+<div align="center">
+
+### HAVE AN IDEA? LET'S BUILD SOMETHING MEANINGFUL.
+
+Interested in software development, computer engineering, sustainable technology, and collaborative projects.
+
+[![GitHub](https://img.shields.io/badge/VIEW_PROFILE-050816?style=for-the-badge&logo=github&logoColor=00F5D4)](https://github.com/YOUR-GITHUB-USERNAME)
+[![Email](https://img.shields.io/badge/SEND_A_MESSAGE-101C45?style=for-the-badge&logo=gmail&logoColor=00F5D4)](mailto:YOUR-EMAIL)
+
+</div>
+
+---
+
+<div align="center">
+
+```js
+while (learning) {
+  build();
+  test();
+  improve();
+}
+```
+
+**THANK YOU FOR VISITING MY PORTFOLIO.**
+
+`DESIGNED WITH CURIOSITY` · `DEVELOPED THROUGH PRACTICE` · `DRIVEN BY ENGINEERING`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CFF,45:00F5D4,100:050816&height=110&section=footer" width="100%" alt="Futuristic footer banner"/>
+
+</div>
+
+<!--
+Research safety note:
+The cigarette-butt project is an experimental research concept, not a recipe or recommendation
+for making or applying homemade pesticide. Experiments require qualified supervision,
+risk assessment, and appropriate hazardous-waste handling.
+-->
